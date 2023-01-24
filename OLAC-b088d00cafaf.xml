@@ -1,0 +1,57 @@
+<OAI-PMH
+	xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2023-01-24T08:01:01Z</responseDate>
+	<request verb="GetRecord" identifier="oai%3Acrdo.vjf.cnrs.fr%3Acocoon-7c8a47bc-3ac9-34a8-b942-b088d00cafaf" metadataPrefix="olac">http://www.language-archives.org/cgi-bin/olaca3.pl</request>
+	<GetRecord>
+		<record>
+			<header>
+				<identifier>oai:crdo.vjf.cnrs.fr:cocoon-7c8a47bc-3ac9-34a8-b942-b088d00cafaf</identifier>
+				<datestamp>2020-11-28</datestamp>
+			</header>
+			<metadata>
+				<olac:olac
+					xmlns:dc="http://purl.org/dc/elements/1.1/"
+					xmlns:dcterms="http://purl.org/dc/terms/"
+					xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation=" http://purl.org/dc/elements/1.1/ http://www.language-archives.org/OLAC/1.1/dc.xsd http://purl.org/dc/terms/ http://www.language-archives.org/OLAC/1.1/dcterms.xsd http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd ">
+					<dc:title>Le berger et son ombre</dc:title>
+					<dcterms:alternative>The shepherd and his shadow</dcterms:alternative>
+					<dc:contributor xsi:type="olac:role" olac:code="depositor">Adamou, Evangelia</dc:contributor>
+					<dc:contributor xsi:type="olac:role" olac:code="researcher">Adamou, Evangelia</dc:contributor>
+					<dc:contributor xsi:type="olac:role" olac:code="speaker">femme anonyme</dc:contributor>
+					<dc:contributor xsi:type="olac:role" olac:code="sponsor">Programme franco-allemand Euroslav 2010 : ANR(09-FASHS-025) - DFG(BR 1228/4-1)</dc:contributor>
+					<dcterms:spatial>Grèce, Liti</dcterms:spatial>
+					<dcterms:spatial xsi:type="dcterms:ISO3166">GR</dcterms:spatial>
+					<dcterms:spatial xsi:type="dcterms:Point">east=23.0000; north=40.6667;</dcterms:spatial>
+					<dcterms:created xsi:type="dcterms:W3CDTF">2004</dcterms:created>
+					<dcterms:available xsi:type="dcterms:W3CDTF">2013-04-20</dcterms:available>
+					<dcterms:issued xsi:type="dcterms:W3CDTF">2013-04-20T17:01:11+02:00</dcterms:issued>
+					<dc:description>Recorded with: marantz solid-state recorder</dc:description>
+					<dc:description>Cette brève histoire raconte la naïveté d’un berger qui avait peur de son ombre. La confondant avec quelqu’un qui n’arrête pas de le suivre, il lui donne tous les beignets que sa mère lui avait préparés.</dc:description>
+					<dc:format xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+					<dcterms:extent>PT03M10S</dcterms:extent>
+					<dcterms:medium>born digital</dcterms:medium>
+					<dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-7c8a47bc-3ac9-34a8-b942-b088d00cafaf</dc:identifier>
+					<dc:identifier xsi:type="dcterms:URI">https://doi.org/10.34847/cocoon.7c8a47bc-3ac9-34a8-b942-b088d00cafaf</dc:identifier>
+					<dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-343787</dc:identifier>
+					<dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/data/adamou/crdo-MKD_BERGER.mp3</dc:identifier>
+					<dc:identifier>Ancienne cote: crdo-MKD_BERGER_SOUND</dc:identifier>
+					<dc:identifier>doi:10.24397/PANGLOSS-0000342</dc:identifier>
+					<dc:language xsi:type="olac:language" olac:code="mkd">Nashta</dc:language>
+					<dc:language xsi:type="olac:language" olac:code="ell">Grec</dc:language>
+					<dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+					<dcterms:isRequiredBy xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:cocoon-2650a83c-43ef-3f57-908c-7b621a0977b6</dcterms:isRequiredBy>
+					<dcterms:isPartOf xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:cocoon-af3bd0fd-2b33-3b0b-a6f1-49a7fc551eb1</dcterms:isPartOf>
+					<dcterms:isFormatOf xsi:type="dcterms:URI">https://cocoon.huma-num.fr/data/archi/masters/343787.wav</dcterms:isFormatOf>
+					<dcterms:isFormatOf xsi:type="dcterms:URI">http://purl.org/net/crdo/data/cocoon-7c8a47bc-3ac9-34a8-b942-b088d00cafaf.version1</dcterms:isFormatOf>
+					<dc:rights>Copyright (c) Adamou, Evangelia</dc:rights>
+					<dcterms:accessRights>Freely accessible</dcterms:accessRights>
+					<dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+					<dc:subject xsi:type="olac:language" olac:code="mkd">Nashta</dc:subject>
+					<dc:type xsi:type="olac:linguistic-type" olac:code="primary_text"/>
+					<dc:type xsi:type="dcterms:DCMIType">Sound</dc:type>
+				</olac:olac>
+			</metadata>
+		</record>
+	</GetRecord>
+</OAI-PMH>
