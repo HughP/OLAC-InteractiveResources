@@ -9,7 +9,7 @@ File Name | File Source | File type | File Date | Record for...
 ---|---|---|---|---
 [oai:crdo.vjf.cnrs.fr:cocoon-7c8a47bc-3ac9-34a8-b942-b088d00cafaf](https://cocoon.huma-num.fr/crdo_servlet/oai-pmh?verb=GetRecord&metadataPrefix=olac&identifier=oai:crdo.vjf.cnrs.fr:cocoon-7c8a47bc-3ac9-34a8-b942-b088d00cafaf) | crdo page | xml | 23 Jan 2023| Audio
 [oai:crdo.vjf.cnrs.fr:cocoon-2650a83c-43ef-3f57-908c-7b621a0977b6](https://cocoon.huma-num.fr/crdo_servlet/oai-pmh?verb=GetRecord&metadataPrefix=olac&identifier=oai:crdo.vjf.cnrs.fr:cocoon-2650a83c-43ef-3f57-908c-7b621a0977b6) | crdo page | xml | 23 Jan 2023 | Text
-| OLAC page | xml | 23 Jan 2023 | Text
+[OLAC-7b621a0977b6](http://www.language-archives.org/cgi-bin/olaca3.pl?verb=GetRecord&identifier=oai:crdo.vjf.cnrs.fr:cocoon-2650a83c-43ef-3f57-908c-7b621a0977b6&metadataPrefix=olac)| OLAC page | xml | 23 Jan 2023 | Text
 | OLAC page | xml | 23 Jan 2023| Audio
 
 There is no HTML display for just the wave file at the following address even though it is the identifier for the wav file.
