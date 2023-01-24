@@ -1,0 +1,56 @@
+<OAI-PMH
+	xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2023-01-24T07:54:13Z</responseDate>
+	<request verb="GetRecord" identifier="oai%3Acrdo.vjf.cnrs.fr%3Acocoon-2650a83c-43ef-3f57-908c-7b621a0977b6" metadataPrefix="olac">http://www.language-archives.org/cgi-bin/olaca3.pl</request>
+	<GetRecord>
+		<record>
+			<header>
+				<identifier>oai:crdo.vjf.cnrs.fr:cocoon-2650a83c-43ef-3f57-908c-7b621a0977b6</identifier>
+				<datestamp>2022-02-11</datestamp>
+			</header>
+			<metadata>
+				<olac:olac
+					xmlns:dc="http://purl.org/dc/elements/1.1/"
+					xmlns:dcterms="http://purl.org/dc/terms/"
+					xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation=" http://purl.org/dc/elements/1.1/ http://www.language-archives.org/OLAC/1.1/dc.xsd http://purl.org/dc/terms/ http://www.language-archives.org/OLAC/1.1/dcterms.xsd http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd ">
+					<dc:title>Le berger et son ombre</dc:title>
+					<dcterms:alternative>The shepherd and his shadow</dcterms:alternative>
+					<dc:contributor xsi:type="olac:role" olac:code="depositor">Adamou, Evangelia</dc:contributor>
+					<dc:contributor xsi:type="olac:role" olac:code="researcher">Adamou, Evangelia</dc:contributor>
+					<dc:contributor xsi:type="olac:role" olac:code="speaker">femme anonyme</dc:contributor>
+					<dc:contributor xsi:type="olac:role" olac:code="sponsor">Programme franco-allemand Euroslav 2010 : ANR(09-FASHS-025) - DFG(BR 1228/4-1)</dc:contributor>
+					<dcterms:available xsi:type="dcterms:W3CDTF">2013-09-26</dcterms:available>
+					<dcterms:issued xsi:type="dcterms:W3CDTF">2013-09-26T20:50:23+02:00</dcterms:issued>
+					<dcterms:modified xsi:type="dcterms:W3CDTF">2022-02-10</dcterms:modified>
+					<dc:description>Cette brève histoire raconte la naïveté d’un berger qui avait peur de son ombre. La confondant avec quelqu’un qui n’arrête pas de le suivre, il lui donne tous les beignets que sa mère lui avait préparés.</dc:description>
+					<dc:format xsi:type="dcterms:IMT">text/xml</dc:format>
+					<dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-2650a83c-43ef-3f57-908c-7b621a0977b6</dc:identifier>
+					<dc:identifier xsi:type="dcterms:URI">https://doi.org/10.34847/cocoon.2650a83c-43ef-3f57-908c-7b621a0977b6</dc:identifier>
+					<dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-370338</dc:identifier>
+					<dc:identifier xsi:type="dcterms:URI">https://cocoon.huma-num.fr/data/adamou/masters/crdo-MKD_BERGER.xml</dc:identifier>
+					<dc:identifier xsi:type="dcterms:URI">http://purl.org/net/crdo/data/cocoon-2650a83c-43ef-3f57-908c-7b621a0977b6.version3</dc:identifier>
+					<dc:identifier>Ancienne cote: crdo-MKD_BERGER</dc:identifier>
+					<dc:identifier>doi:10.24397/PANGLOSS-0000343</dc:identifier>
+					<dc:language xsi:type="olac:language" olac:code="mkd">Nashta</dc:language>
+					<dc:language xsi:type="olac:language" olac:code="eng">Anglais</dc:language>
+					<dc:language xsi:type="olac:language" olac:code="fra">Français</dc:language>
+					<dc:language xsi:type="olac:language" olac:code="ell">Grec</dc:language>
+					<dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+					<dcterms:replaces xsi:type="dcterms:URI">http://purl.org/net/crdo/data/cocoon-2650a83c-43ef-3f57-908c-7b621a0977b6.version1</dcterms:replaces>
+					<dcterms:replaces xsi:type="dcterms:URI">http://purl.org/net/crdo/data/cocoon-2650a83c-43ef-3f57-908c-7b621a0977b6.version2</dcterms:replaces>
+					<dcterms:requires xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:cocoon-7c8a47bc-3ac9-34a8-b942-b088d00cafaf</dcterms:requires>
+					<dcterms:isPartOf xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:cocoon-af3bd0fd-2b33-3b0b-a6f1-49a7fc551eb1</dcterms:isPartOf>
+					<dcterms:isFormatOf xsi:type="dcterms:URI">https://cocoon.huma-num.fr/exist/crdo/display/cocoon-2650a83c-43ef-3f57-908c-7b621a0977b6</dcterms:isFormatOf>
+					<dcterms:conformsTo xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:cocoon-49aefa90-8c1f-3ba8-a099-0ebefc6a2aa7</dcterms:conformsTo>
+					<dc:rights>Copyright (c) Adamou, Evangelia</dc:rights>
+					<dcterms:accessRights>Freely accessible</dcterms:accessRights>
+					<dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+					<dc:subject xsi:type="olac:language" olac:code="mkd">Nashta</dc:subject>
+					<dc:type xsi:type="olac:linguistic-type" olac:code="primary_text"/>
+					<dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+				</olac:olac>
+			</metadata>
+		</record>
+	</GetRecord>
+</OAI-PMH>
